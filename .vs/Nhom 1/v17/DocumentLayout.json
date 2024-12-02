@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8973F746-8CD1-41B9-BC12-E02605181BD4}|caro\\caro.vcxproj|C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\caro\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8973F746-8CD1-41B9-BC12-E02605181BD4}|caro\\caro.vcxproj|solutionrelative:caro\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8973F746-8CD1-41B9-BC12-E02605181BD4}|caro\\caro.vcxproj|C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\caro\\handle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8973F746-8CD1-41B9-BC12-E02605181BD4}|caro\\caro.vcxproj|solutionrelative:caro\\handle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "handle.cpp",
+              "DocumentMoniker": "C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\caro\\handle.cpp",
+              "RelativeDocumentMoniker": "caro\\handle.cpp",
+              "ToolTip": "C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\caro\\handle.cpp",
+              "RelativeToolTip": "caro\\handle.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAHAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T13:00:54.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\caro\\Source.cpp",
+              "RelativeDocumentMoniker": "caro\\Source.cpp",
+              "ToolTip": "C:\\Users\\ricon\\Downloads\\OneDrive_2024-12-01\\Nhom 1\\caro\\Source.cpp",
+              "RelativeToolTip": "caro\\Source.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T13:05:46.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

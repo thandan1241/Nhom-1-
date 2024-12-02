@@ -1,0 +1,7 @@
+﻿  control.cpp
+  handle.cpp
+  Source.cpp
+  View.cpp
+  Generating Code...
+C:\Users\ricon\Downloads\OneDrive_2024-12-01\Nhom 1\caro\handle.cpp(105,1): warning C4715: 'WinCheck': not all control paths return a value
+  caro.vcxproj -> C:\Users\ricon\Downloads\OneDrive_2024-12-01\Nhom 1\x64\Debug\caro.exe
